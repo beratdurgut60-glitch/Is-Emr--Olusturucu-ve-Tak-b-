@@ -25,6 +25,7 @@ npm run dev
 ```
 
 Uygulama [http://localhost:3000](http://localhost:3000) adresinde çalışacaktır.
+Canlı Uygulama : <https://is-emir-olusturucu-ve-takibi.vercel.app>
 
 ## Build
 
